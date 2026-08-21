@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31306742/README.md)
 # ComfyUI-CL-Tagger-v2
 
 适配 [cella110n/cl_tagger_v2](https://huggingface.co/cella110n/cl_tagger_v2) 的独立 ComfyUI 插件。给图像自动生成 Danbooru 风格标签（10.8 万标签），常用于反推提示词、批量打标、训练集自动加标签。

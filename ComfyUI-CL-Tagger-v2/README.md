@@ -83,8 +83,6 @@ LoadImage ──► CLTaggerV2 ──► tags (STRING) ──► CLIPTextEncode 
 **输出标签明显不对？**
 先确认图是目标域内容（模型在 danbooru 系数据上训练）；阈值低于 0.5 会混入噪声标签，可配合 `use_best_threshold` 对比。
 
-**和 ComfyUI_Mira 里的 CL Tagger 冲突吗？**
-不冲突，本插件独立命名（CLTaggerV2），可共存。
 
 ## 目录结构
 

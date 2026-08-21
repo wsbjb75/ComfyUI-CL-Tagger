@@ -1,0 +1,5 @@
+onnxruntime>=1.16.0
+numpy
+Pillow
+# torch 由 ComfyUI 自带，无需重复安装
+# huggingface_hub>=0.20.0  # 仅运行 download.py 自动下载模型时需要
